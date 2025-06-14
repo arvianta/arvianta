@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 Sepuluh Nopember Institute of Technology<br>🔭 Currently working on Information Security, Back-end Development, Software Engineering, Full-stack Development<br> 
+🏫 Sepuluh Nopember Institute of Technology<br>🔭 Currently working on Machine Learning Engineering, Back-end Development, Software Engineering<br> 
 
 
 ## 🌐 Socials:
